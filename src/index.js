@@ -1,6 +1,6 @@
 var gutil = require('gulp-util')
   , duplexer = require('plexer')
-  , svgicons2svgfont = require('gulp-svgicons2svgfont')
+  , svgicons2svgfont = require('gulp-svgicons2svgfontforweb')
   , svg2ttf = require('gulp-svg2ttf')
   , ttf2eot = require('gulp-ttf2eot')
   , ttf2woff = require('gulp-ttf2woff')

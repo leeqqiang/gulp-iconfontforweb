@@ -1,4 +1,2 @@
-gulp-iconfontforweb
-===================
-
-based on gulp-iconfont
+# gulp-iconfontforweb
+> based on gulp-iconfont
